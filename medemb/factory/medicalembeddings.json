@@ -1,0 +1,9 @@
+{
+	"name": "medicalembeddings",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "61b29b64-ad65-486c-94ed-2cd779747498",
+		"tenantId": "0fe5f65b-3e8b-4233-8f43-eea71c61b053"
+	}
+}
